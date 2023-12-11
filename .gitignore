@@ -1,0 +1,13 @@
+[Pliki i katalogi, które chcesz zignorować]
+/Library/
+/Temp/
+/Obj/
+/Builds/
+/Assets/AssetStoreTools*
+/ProjectSettings/ProjectVersion.txt
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.log
+*.booproj
